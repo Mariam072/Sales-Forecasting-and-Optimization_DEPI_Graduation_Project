@@ -13,13 +13,22 @@ Interactive Streamlit dashboard with rich visualizations (Plotly).
 Downloadable analytics tables for further business use.
 Time-series forecasting and trend analysis.
 Product and category-level performance breakdown.
+
+
+
 Team
 Mentor: Mohamed Gomaa
+
+
 Team Members: Amr Khaled, Mariam Hassan, Rana Mohamed,
 Special Thanks
+
+
 Special thanks to Eng.Mohamed Gomaa for providing a supportive and inspiring environment throughout the project.
 
 Technologies Used
+
+
 Python
 Streamlit
 Plotly
