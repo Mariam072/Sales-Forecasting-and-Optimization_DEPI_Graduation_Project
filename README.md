@@ -1,0 +1,2 @@
+# Sales-Forecasting-and-Optimization_DEPI_Graduation_Project
+This project focuses on building machine learning algorithms to analyze historical sales data, identify patterns, and accurately forecast future sales. The goal is to support businesses in making data-driven decisions to improve demand planning, optimize inventory levels, reduce overstock/stockouts, and enhance overall operational efficiency.
